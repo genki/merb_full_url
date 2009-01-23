@@ -4,6 +4,7 @@ require 'rubygems'
 require 'merb-core'
 require 'dm-core'
 require "spec" # Satisfies Autotest and anyone else not using the Rake tasks
+require 'merb_full_url/request_ext'
 require 'merb_full_url/controller_ext'
 require 'dm-aggregates'
 
