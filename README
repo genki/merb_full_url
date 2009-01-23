@@ -2,3 +2,11 @@ merb_full_url
 =============
 
 A plugin for the Merb framework that provides full_url method.
+
+USAGE:
+
+  You can use full_url and full_resource for acquiring full URL instead of
+  original url and resource.
+
+    full_url(...)
+    full_resource(...)
